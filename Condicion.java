@@ -23,95 +23,122 @@ class Condicion {
 	if(mes_usuario==1){
 		
 		if(dia_usuario<=19){
-						System.out.println("Su signo del zodiaco es: capricornio")
+						System.out.println("Su signo del zodiaco es: Capricornio");
 		}
 		if(dia_usuario>=19){
-						System.out.println("Su signo del zodiaco es: Acuario")
+						System.out.println("Su signo del zodiaco es: Acuario");
 		}
 	}
 	
 	if(mes_usuario==2){
 		
 		if(dia_usuario<=18){
-						System.out.println("Su signo del zodiaco es: Acuario")
+						System.out.println("Su signo del zodiaco es: Acuario");
 		}
 		if(dia_usuario>=19){
-						System.out.println("Su signo del zodiaco es: Piscis")
+						System.out.println("Su signo del zodiaco es: Piscis");
 		}
 	}
 	
 	if(mes_usuario==3){
 		
 		if(dia_usuario<=20){
-						System.out.println("Su signo del zodiaco es: Piscis")
+						System.out.println("Su signo del zodiaco es: Piscis");
 		}
 		if(dia_usuario>=21){
-						System.out.println("Su signo del zodiaco es: Aries")
+						System.out.println("Su signo del zodiaco es: Aries");
 		}
 	}
 	
 	if(mes_usuario==4){
 		
 		if(dia_usuario<=19){
-						System.out.println("Su signo del zodiaco es: Aries")
+						System.out.println("Su signo del zodiaco es: Aries");
 		}
 		if(dia_usuario>=20){
-						System.out.println("Su signo del zodiaco es: Tauro")
+						System.out.println("Su signo del zodiaco es: Tauro");
 		}
 	}
 	
 	if(mes_usuario==5){
 		
 		if(dia_usuario<=20){
-						System.out.println("Su signo del zodiaco es: Tauro")
+						System.out.println("Su signo del zodiaco es: Tauro");
 		}
 		if(dia_usuario>=21){
-						System.out.println("Su signo del zodiaco es: Geminis")
+						System.out.println("Su signo del zodiaco es: Geminis");
 		}
 	}
 
     if(mes_usuario==6){
 		
 		if(dia_usuario<=20){
-						System.out.println("Su signo del zodiaco es: Geminis")
+						System.out.println("Su signo del zodiaco es: Geminis");
 		}
 		if(dia_usuario>=21){
-						System.out.println("Su signo del zodiaco es: Cancer")
+						System.out.println("Su signo del zodiaco es: Cancer");
 		}
 	}
 	
 	if(mes_usuario==7){
 		
 		if(dia_usuario<=22){
-						System.out.println("Su signo del zodiaco es: Cancer")
+						System.out.println("Su signo del zodiaco es: Cancer");
 		}
-		if(dia_usuario>=19){
-						System.out.println("Su signo del zodiaco es: Piscis")
+		if(dia_usuario>=23){
+						System.out.println("Su signo del zodiaco es: Leo");
 		}
 	}
 	
+	if(mes_usuario==8){
+		
+		if(dia_usuario<=22){
+						System.out.println("Su signo del zodiaco es: Leo");
+		}
+		if(dia_usuario>=23){
+						System.out.println("Su signo del zodiaco es: Virgo");
+		}
+	}
 	
+	if(mes_usuario==9){
+		
+		if(dia_usuario<=22){
+						System.out.println("Su signo del zodiaco es: Virgo");
+		}
+		if(dia_usuario>=23){
+						System.out.println("Su signo del zodiaco es: Libra");
+		}
+	}
 	
+	if(mes_usuario==10){
+		
+		if(dia_usuario<=22){
+						System.out.println("Su signo del zodiaco es: Libra");
+		}
+		if(dia_usuario>=23){
+						System.out.println("Su signo del zodiaco es: Escorpio");
+		}
+	}
 	
+	if(mes_usuario==11){
+		
+		if(dia_usuario<=21){
+						System.out.println("Su signo del zodiaco es: Escorpio");
+		}
+		if(dia_usuario>=22){
+						System.out.println("Su signo del zodiaco es: Sagitario");
+		}
+	}
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	if(mes_usuario==12){
+		
+		if(dia_usuario<=21){
+						System.out.println("Su signo del zodiaco es: Sagitario");
+		}
+		if(dia_usuario>=22){
+						System.out.println("Su signo del zodiaco es: Capricornio");
+		}
+	}
 	
   }
 }
